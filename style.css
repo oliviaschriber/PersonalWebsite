@@ -1,0 +1,68 @@
+.name{
+    font-size:24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center
+}
+
+.introduction{
+    font-size:14px;
+    text-align:left;
+    width:60%;
+    background-color:#9FE3A9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px gray;
+    padding:20px;
+    border-radius: 10%;
+    margin: 10px;
+
+}
+
+.caveat{
+    float:right;
+    font-size:14px;
+    text-align:right;
+    width:60%;
+    background-color:#B1B4E3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px gray;
+    padding:20px;
+    border-radius: 10%;
+    margin:10px;
+}
+
+
+
+.picofme img{
+    border:solid 3px gray;
+    display:block;
+    text-align:center;
+    margin-left: 10%;
+}
+
+.maininfo{
+    font-size:14px;
+    display:block;
+    float:right;
+    width:50%;
+    background-color:#9FE3A9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px gray;
+    padding:20px;
+    border-radius: 10%;
+    margin-top:-24%;
+    margin-right:7%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
