@@ -1,5 +1,6 @@
+
 .name{
-    font-size:24px;
+    font-size:48px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align:center
 }
@@ -12,7 +13,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: solid 1px gray;
     padding:20px;
-    border-radius: 10%;
+    border-radius: 20%;
     margin: 10px;
 
 }
@@ -26,7 +27,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: solid 1px gray;
     padding:20px;
-    border-radius: 10%;
+    border-radius: 20%;
     margin:10px;
 }
 
@@ -51,6 +52,35 @@
     border-radius: 10%;
     margin-top:-24%;
     margin-right:7%;
+}
+
+.projects{
+    font-size:14px;
+    float:left;
+    width:40%;
+    background-color:#B1B4E3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px gray;
+    padding:20px;
+    border-radius: 10%;
+    margin-left:3%;
+    margin-right:3%;
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+.additonalinfo{
+    font-size:14px;
+    float:left;
+    width:40%;
+    background-color:#B1B4E3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px gray;
+    padding:20px;
+    border-radius: 10%;
+    margin-left:3%;
+    margin-top:7%;
+
 }
 
 
