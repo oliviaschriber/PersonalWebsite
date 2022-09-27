@@ -36,22 +36,24 @@
 .picofme img{
     border:solid 3px gray;
     display:block;
+    float:left;
     text-align:center;
     margin-left: 10%;
+    margin-top:2%;
 }
 
 .maininfo{
     font-size:14px;
-    display:block;
-    float:right;
+    float:left;
     width:50%;
     background-color:#9FE3A9;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: solid 1px gray;
     padding:20px;
     border-radius: 10%;
-    margin-top:-24%;
-    margin-right:7%;
+    margin-top:2%;
+    margin-right:5%;
+    margin-left: 12%;
 }
 
 .projects{
@@ -65,8 +67,8 @@
     border-radius: 10%;
     margin-left:3%;
     margin-right:3%;
-    margin-top:2%;
     margin-bottom:2%;
+    margin-top:2%;
 }
 
 .additonalinfo{
